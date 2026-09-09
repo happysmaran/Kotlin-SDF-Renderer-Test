@@ -1,5 +1,3 @@
-package clos_grapher_element
-
 import java.awt.*
 import java.awt.event.*
 import java.awt.image.*
